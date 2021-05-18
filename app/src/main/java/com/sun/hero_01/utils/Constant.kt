@@ -8,5 +8,4 @@ object Constant {
     const val PATH_IMAGE_SKILL = "img/spell"
     const val PATH_IMAGE_PASSIVE = "img/passive"
     const val PATH_IMAGE_SKIN = "img/champion/splash"
-    const val PATH_IMAGE_CHAMPION = "img/champion/"
 }
